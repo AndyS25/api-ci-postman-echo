@@ -1,4 +1,4 @@
-[![Java CI with Gradle](https://github.com/AndyS25/api-ci/actions/workflows/gradle.yml/badge.svg)](https://github.com/AndyS25/api-ci/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/AndyS25/api-ci-postman-echo/actions/workflows/gradle.yml/badge.svg)](https://github.com/AndyS25/api-ci-postman-echo/actions/workflows/gradle.yml)
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
